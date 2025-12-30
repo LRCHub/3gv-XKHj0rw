@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "The Most Beautiful Thing",
+  "base_artist": "Bruno Major",
+  "createdAt": "2025-12-30T06:59:46.211918Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Most Beautiful Thing",
+      "artist": "Thomas Headon",
+      "has_synced": true,
+      "path": "select/01_The_Most_Beautiful_Thing_Thomas_Headon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Most Beautiful Thing",
+      "artist": "Bruno Major",
+      "has_synced": true,
+      "path": "select/02_The_Most_Beautiful_Thing_Bruno_Major.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Most Beautiful Thing",
+      "artist": "Bruno Major",
+      "has_synced": true,
+      "path": "select/03_The_Most_Beautiful_Thing_Bruno_Major.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Most Beautiful Thing",
+      "artist": "Bruno Major",
+      "has_synced": true,
+      "path": "select/04_The_Most_Beautiful_Thing_Bruno_Major.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Most Beautiful Thing",
+      "artist": "Jimmy Eat World",
+      "has_synced": true,
+      "path": "select/05_The_Most_Beautiful_Thing_Jimmy_Eat_World.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Most Beautiful Thing",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/06_The_Most_Beautiful_Thing_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Most Beautiful Thing in My World",
+      "artist": "Herman’s Hermits",
+      "has_synced": true,
+      "path": "select/07_The_Most_Beautiful_Thing_in_My_World_Herman’s_Hermits.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Most Beautiful Thing In My Life",
+      "artist": "Herman's Hermits",
+      "has_synced": true,
+      "path": "select/08_The_Most_Beautiful_Thing_In_My_Life_Herman's_Hermits.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Most Beautiful Thing in My Life",
+      "artist": "Herman’s Hermits",
+      "has_synced": true,
+      "path": "select/09_The_Most_Beautiful_Thing_in_My_Life_Herman’s_Hermits.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Most Beautiful Thing",
+      "artist": "Bruno Major",
+      "has_synced": false,
+      "path": "select/pl_01_The_Most_Beautiful_Thing_Bruno_Major.txt"
+    }
+  ]
+}
