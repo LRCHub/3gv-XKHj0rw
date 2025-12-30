@@ -1,0 +1,40 @@
+# Bruno Major – The Most Beautiful Thing
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:16.14] Will it be a pavement or a sidewalk
+[00:23.68] When I finally lay my eyes on you?
+[00:30.92] Someone I've already loved
+[00:34.75] Or will you find your way out of the blue?
+[00:55.75] 
+[00:46.16] Will it be my flat or your apartment
+[00:53.61] When I finally realise I do?
+[01:01.45] Will we meet on Baker Street
+[01:04.86] Or find ourselves on Melrose Avenue?
+[01:22.86] 
+[01:15.33] I don't know who you are
+[01:19.08] But I'll save you a seat
+[01:22.94] Hang my coat on a chair next to me
+[01:39.94] 
+[01:31.19] I tried to reassure the waiter
+[01:34.92] Say you're down the street
+[01:37.74] He laughed at me
+[01:41.28] So here's to you
+[01:45.45] The most beautiful thing that I have never seen
+[02:08.95] 
+[02:08.73] Someone on a screen asked me a question
+[02:16.33] Something about what love means to me
+[02:23.98] Maybe it's just circumstance
+[02:27.55] Or general compatibility
+[02:39.55] 
+[02:38.35] I don't know who you are
+[02:41.98] But I'll save you a seat
+[02:45.52] Hang my coat on a chair next to me
+[03:02.52] 
+[02:53.81] I tried to reassure the waiter
+[02:57.71] Say you're down the street
+[03:00.54] He laughed at me
+[03:04.06] So here's to you
+[03:08.22] The most beautiful thing that I have never seen
+```
